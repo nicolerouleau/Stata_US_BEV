@@ -1,6 +1,6 @@
 <p align="center"> U.S CONSUMER PREFERENCE AND POLICY IN BEV 2018-2020 </p>
 ### Washington State University May 2022
-### Nicole R. Rouleau
+###N icole R. Rouleau
 Battery electric vehicles have gained market growth in the United States due to government policies and consumer preferences. 
 Government policy can be an incentive to consumers purchasing electric vehicles, but if consumer preference was strong enough would these incentives still be required? 
 In the retail market, consumer preferences have shown to be strong enough to not require incentives in "green" products. 
