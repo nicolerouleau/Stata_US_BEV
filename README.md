@@ -15,6 +15,7 @@ Consumers are incentivized by state subsidies to purchase battery electric vehic
 
 If incentives at the state level were taken away, consumer preference would still be strong enough for BEV market share to go unchanged. This assumption is based on the interest in "green" retail products that have an increase in cost to the customer and no government incentive, yet has increased in market share [3]. 
 <p align=center><em>H2: Probability of purchasing BEVs when state subsidies are applied will be equal to the probability of purchasing BEVs when state subsidies are not applied<em></p>  
+  
 ###Estimating Equation
 
 
