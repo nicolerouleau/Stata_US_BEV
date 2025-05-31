@@ -5,16 +5,16 @@ Battery electric vehicles have gained market growth in the United States due to 
 Government policy can be an incentive to consumers purchasing electric vehicles, but if consumer preference was strong enough would these incentives still be required? 
 In the retail market, consumer preferences have shown to be strong enough to not require incentives in "green" products. 
 The consumer preferences for “green” retail products could imply that the automotive market may work similarly and that incentives may not be necessary for the purchase of electric vehicles. 
-However, the automotive market has higher costs that may dissuade consumers and require incentives for decision making.\
+However, the automotive market has higher costs that may dissuade consumers and require incentives for decision making.  
 
 ## Model
 ### Hypotheses
-#### Consumers and Policy
+Consumers and Policy
 Consumers are incentivized by state subsidies to purchase battery electric vehicles [1]. Purchase rebates, income tax tax credits, and tax reuctions help combat the overall cost of the vehicle and increase consumer preference for a BEV [2].
-<p align=center> *H1: State sudbsidies will impact market share of BEVs* </p>\
-#### Consumers v. Policy
+<p align=center> *H1: State sudbsidies will impact market share of BEVs* </p>  
+
 If incentives at the state level were taken away, consumer preference would still be strong enough for BEV market share to go unchanged. This assumption is based on the interest in "green" retail products that have an increase in cost to the customer and no government incentive, yet has increased in market share [3]. 
-<p align=center> *H2: Probability of purchasing BEVs when state subsidies are applied will be equal to the probability of purchasing BEVs when state subsidies are not applied* </p>\
+<p align=center> *H2: Probability of purchasing BEVs when state subsidies are applied will be equal to the probability of purchasing BEVs when state subsidies are not applied* </p>  
 ###Estimating Equation
 
 
