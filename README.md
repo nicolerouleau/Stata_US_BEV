@@ -17,7 +17,9 @@ If incentives at the state level were taken away, consumer preference would stil
 <p align=center><em>H2: Probability of purchasing BEVs when state subsidies are applied will be equal to the probability of purchasing BEVs when state subsidies are not applied<em></p>   
   
 ### Estimating Equation
-
+<p align="center">
+  <img src="images/Equation.png" width="500"/>
+</p>
 
 
 
