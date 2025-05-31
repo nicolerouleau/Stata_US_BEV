@@ -11,7 +11,7 @@ However, the automotive market has higher costs that may dissuade consumers and 
 ### Hypotheses
 Consumers and Policy
 Consumers are incentivized by state subsidies to purchase battery electric vehicles [1]. Purchase rebates, income tax tax credits, and tax reuctions help combat the overall cost of the vehicle and increase consumer preference for a BEV [2].
-<p align=center><em></em>H1: State sudbsidies will impact market share of BEVs<em></p>  
+<p align=center><em>H1: State sudbsidies will impact market share of BEVs<em></p>  
 
 If incentives at the state level were taken away, consumer preference would still be strong enough for BEV market share to go unchanged. This assumption is based on the interest in "green" retail products that have an increase in cost to the customer and no government incentive, yet has increased in market share [3]. 
 <p align=center><em>H2: Probability of purchasing BEVs when state subsidies are applied will be equal to the probability of purchasing BEVs when state subsidies are not applied<em></p>  
