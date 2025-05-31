@@ -21,11 +21,10 @@ If incentives at the state level were taken away, consumer preference would stil
   <img src="images/Equation.png" width="500"/>
 </p>  
 A multinomial model was chosen as it does not assume normality, linearity or homoscedasticity; instead it only assumes independence between the independent and dependent variables [4].  
-Use of an outside share is representative of not purchasing BEV or non-BEV vehicles allowing the model to aggregate the vehicles in terms of both price and all other characteristics [5]. A clearer representation of the the left-hand side of the regression above:   
-
+Use of an outside share is representative of not purchasing BEV or non-BEV vehicles allowing the model to aggregate the vehicles in terms of both price and all other characteristics [5]. A clearer representation of the the left-hand side of the regression above:<br>
 <p align="center">
   <img src="images/LeftHandEquation.png" width="500"/>
-</p>  
+</p>
 
 
 
