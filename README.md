@@ -19,13 +19,21 @@ If incentives at the state level were taken away, consumer preference would stil
 ### Estimating Equation
 <p align="center">
   <img src="images/Equation.png" width="500"/>
-</p>
+</p>  
+A multinomial model was chosen as it does not assume normality, linearity or homoscedasticity; instead it only assumes independence between the independent and dependent variables [4].  
+Use of an outside share is representative of not purchasing BEV or non-BEV vehicles allowing the model to aggregate the vehicles in terms of both price and all other characteristics [5]. A clearer representation of the the left-hand side of the regression above:
+<p align="center">
+  <img src="images/LeftHandEquation.png" width="500"/>
+</p>  
+
 
 
 
 
 
 ## References
-[1] Breetz and Salon, 2018
-[2] Liao et al, 2016
-[3] Kronthal-Sacco & Whelan, 2021
+[1] Breetz and Salon, 2018  
+[2] Liao et al, 2016  
+[3] Kronthal-Sacco & Whelan, 2021  
+[4] Starkweather & Moske, 2011
+[5] Berry et al, 1995
