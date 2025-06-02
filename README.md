@@ -46,14 +46,16 @@ The estimating equation was shown to explain that most of the variation was gene
 </p>  
 Using coefficient estimates from Table 2 and the left hand side of the estimating equation, the probability of: BEV market share, non-BEV market share and outside share can be found. 
 The probability of market share in BEVs and non-BEVs can be seen in Table 3.
-Table 4 displays that the only states with any differences between market shares with subsidies and without, were those that established state subsidies in those years. This further proves that the hypothesis *H2* must be rejected. The elasticity of state subsidy in relation to the probability of purchasing BEVs, elasticity is equal to 0.0701, indicating an inelastic relationship. This indicates that a 10% state subsidy increase corresponds with a 0.7% increase in the probability of purchasing a BEV.
+Table 4 displays that the only states with any differences between market shares with subsidies and without, were those that established state subsidies in those years. This further proves that the hypothesis *H2* must be rejected. The elasticity of state subsidy in relation to the probability of purchasing BEVs, elasticity is equal to 0.0701, indicating an inelastic relationship. This indicates that a 10% state subsidy increase corresponds with a 0.7% increase in the probability of purchasing a BEV.  
+<br>
 <p align="center">
   <img src="images/Table3.png" width="500"/>
 </p>  
 <p align="center">
   <img src="images/Table4.png" width="500"/>
 </p>  
-### Implications
+
+### Implications  
 State subsidies have an impact on market share of BEVs, proving that policy does make a difference on how consumers purchase in the automotive market. There has been a proposal to raise the current maximum federal subsidy from $7500 to $12500 and include more limitations in order to encourage more employment and manufacturing within the United States, this has not yet passed [8]. If this does pass, it may increase demand and therefore increase market share of BEVs.
 The probability of purchasing BEVs when state subsidies are applied is not equal to the probability of purchasing BEVs when state subsidies are not applied. The probability of purchasing with subsidies versus without is not noticeably large, the percent change between the two proves otherwise (Table 4), showing that the automotive market does not parallel the "green" retail market.  
 
